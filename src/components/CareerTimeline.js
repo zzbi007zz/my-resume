@@ -4,7 +4,7 @@ import { ChevronRight, Briefcase, Award } from 'lucide-react';
 const careerData = {
     2023: {
         title: "Senior Software Tester",
-        company: "iTech",
+        company: "GTV(Green Tech Venture)",
         period: "November 2023 - Present",
         responsibilities: [
             "Execute manual and automated regression tests",
